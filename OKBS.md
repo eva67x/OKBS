@@ -33,6 +33,8 @@ Bots CAN NOT be used to do any of the following:
   * Autolocking or autocrashing any bots that have not violated any guidelines in section II.
   * Auto-NoOPing/Auto-DeOPing/Auto-Muting any bots that have not violated any guidelines in section II.
 
+These services shall not be provided for public use and will be required to have some form of security for trusted players  
+
 ### Section II, Part 3: Real-world malicious intent
 Bots CAN NOT be used to:
 * Dox any person.
